@@ -1,0 +1,26 @@
+.main-nav li a{
+	margin:  1px 12px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.3em;
+}
+
+#works a{
+	border: 2px solid white; 
+}
+
+#works a:hover{
+	border: 2px solid black; 
+}
+
+#up {
+    position: relative;
+    top: -150px;
+}
+
+section#works ul {
+	margin-top: 150px;
+}
+
+#usecases{
+	background-color: whitesmoke;
+}

@@ -1,0 +1,16 @@
+main-nav{
+	top: 68px;  /*for shrinking the navbar height*/
+}
+
+@media only screen and (max-width: 767px)
+.main-nav li.small-logo {
+    /* display: none; */
+    /*change the display property here to place on the middle*/
+}
+
+style.css 801 line
+
+.res-nav_click {
+    /*remove margin: 20px, auto;
+    add margin: 20px;
+}
