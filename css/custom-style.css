@@ -1,0 +1,80 @@
+/*/////////////////////////////////////////////////////////////////////
+ // 
+ // Custom theme code styles
+ // Written by Themelize.me (http://themelize.me)
+ // 
+ // This is an empty starter template for overriding styles
+ // set by Bootstrap & the theme
+ //
+ // PUT ALL YOUR CUSTOM CSS CODE IN THIS FILE
+ // 
+ // ----------------------------------------------------
+ // 
+ // Remove unused code & commenting for better performances
+ // 
+ // ----------------------------------------------------
+ // 
+ // @see - Usefuls tools online for editing
+ // 1. http://charliepark.org/bootstrap_buttons/ - Button style generator
+ // 2. http://www.colorzilla.com/gradient-editor/ - CSS3 gradient maker
+ // 
+ // 
+ /////////////////////////////////////////////////////////////////////*/
+/*
+ * --------------------------------------------------
+ * 1. Page Structure
+ *--------------------------------------------------
+ */
+#header {
+  /* 1. Navigation wrapper */
+}
+#content {
+  /* 2. Content wrapper */
+}
+#footer {
+  /* 3. Footer wrapper */
+}
+/*
+ * --------------------------------------------------
+ * 2. Colours/Backgrounds
+ *-------------------------------------------------- 
+ */
+body.COLOUR-NAME {
+  /* Your new colour class to apply to body tag, see: css/theme-schemes.css file for examples */
+
+}
+#header.BACKGROUND-NAME {
+  /* Your new background class to apply to #header tag, see: css/theme-schemes.css file for examples */
+
+}
+/*
+ * --------------------------------------------------
+ * 3. Page Elements
+ *--------------------------------------------------
+ */
+/*
+ * --------------------------------------------------
+ * 4. Responsiveness/media queries
+ *--------------------------------------------------
+ */
+@media (max-width: 979px) {
+  /* Navbar Collapsed (mobile) */
+}
+@media (min-width: 980px) {
+  /* Navbar Expanded (desktop) */
+}
+@media (min-width: 1200px) {
+  /* Responsive: Large desktop and up (wide) */
+}
+@media (max-width: 979px) {
+  /* Responsive: Mobile to desktop (common for all narrow devices) */
+}
+@media (min-width: 768px) and (max-width: 979px) {
+  /* Responsive: Tablet to desktop (normal) */
+}
+@media (max-width: 767px) {
+  /* Responsive: Landscape phone to desktop/tablet (narrow) */
+}
+@media (max-width: 480px) {
+  /* Responsive: Up to Landscape phone (mobile) */
+}
